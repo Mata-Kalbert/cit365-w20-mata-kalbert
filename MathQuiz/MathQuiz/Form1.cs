@@ -157,10 +157,6 @@ namespace MathQuiz
                 answerBox.Select(0, lengthOfAnswer);
             }
         }
-
-
-
-
     }
 }
 
